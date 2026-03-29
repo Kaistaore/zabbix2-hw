@@ -10,7 +10,7 @@
 - **CPU utilization percentage** (key: `system.cpu.load[percpu,avg1]`)
 - **RAM utilization percentage** (key: `vm.memory.size[pused]`)
 
-![Задание 1](screenshots/zadanie-1.png)
+![Задание 1](zadanie-1.png)
 
 ### Задание 2-3
 Добавлены два хоста:
@@ -23,10 +23,10 @@
 
 Статус: **ZBX (зелёный)**
 
-![Задание 2-3](screenshots/zadanie-2-3.png)
+![Задание 2-3](zadanie-2-3.png)
 
 ### Задание 4
 Создан дашборд **"CPU and RAM Dashboard"** с графиками CPU и RAM.
 
-![Задание 4](screenshots/zadanie-4.png)
+![Задание 4](zadanie-4.png)
 

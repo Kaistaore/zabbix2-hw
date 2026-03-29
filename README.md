@@ -26,7 +26,7 @@
 ![Задание 2-3](zabbix-zadanie2-3.png)
 
 ### Задание 4
-Создан дашборд **"CPU and RAM Dashboard"** с графиками CPU и RAM.
+Создан дашборд **"Task4"** с графиками CPU и RAM.
 
 ![Задание 4](zabbix-zadanie4.png)
 
